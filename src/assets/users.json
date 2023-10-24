@@ -107,15 +107,6 @@
       "address": "New Zeland",
       "photoURL": "https://i.pravatar.cc/?img=44",
       "id": 13
-    },
-    {
-      "givenName": "Παναγιωτης",
-      "surName": "Τερζακης",
-      "age": 60,
-      "email": "panos_ter90@hotmail.com",
-      "address": "3ης Σεπτεμβριου",
-      "photoURL": "https://i.pravatar.cc/?img=39",
-      "id": 14
     }
   ]
 }
