@@ -2,21 +2,12 @@
   "users": [
     {
       "id": 1,
-      "givenName": "John",
-      "surName": "Doe",
-      "age": 30,
+      "givenName": "John2",
+      "surName": "Doe1",
+      "age": 35,
       "email": "john.doe@example.com",
       "address": "123 Main St",
       "photoURL": "https://i.pravatar.cc/?img=1"
-    },
-    {
-      "id": 2,
-      "givenName": "Jane",
-      "surName": "Doe",
-      "age": 28,
-      "email": "jane.doe@example.com",
-      "address": "123 Main St",
-      "photoURL": "https://i.pravatar.cc/?img=2"
     },
     {
       "id": 3,
@@ -98,6 +89,15 @@
       "address": "New Zeland",
       "photoURL": "https://i.pravatar.cc/?img=44",
       "id": 13
+    },
+    {
+      "givenName": "Παναγιωτης",
+      "surName": "Τερζακης",
+      "age": 20,
+      "email": "panos_ter90@hotmail.com",
+      "address": "3ης Σεπτεμβριου",
+      "photoURL": "rgterghter",
+      "id": 14
     }
   ]
 }

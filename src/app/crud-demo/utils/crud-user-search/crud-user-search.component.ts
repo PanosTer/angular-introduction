@@ -2,11 +2,12 @@ import { Component, ElementRef, EventEmitter, Inject, Output, ViewChild } from '
 import { CommonModule } from '@angular/common';
 import { Person } from 'src/app/interfaces/person';
 import { AppService } from 'src/app/app.service';
+import { ReactiveFormsModule } from '@angular/forms';
 
 @Component({
   selector: 'app-crud-user-search',
   standalone: true,
-  imports: [CommonModule],
+  imports: [CommonModule, ReactiveFormsModule],
   templateUrl: './crud-user-search.component.html',
   styleUrls: ['./crud-user-search.component.css']
 })
