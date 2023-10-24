@@ -2,7 +2,7 @@ import { AfterViewInit, Component, ElementRef, Inject, ViewChild } from '@angula
 import { CommonModule } from '@angular/common';
 import { AppService } from 'src/app/app.service';
 import { Person } from 'src/app/interfaces/person';
-import { PersonCardComponent } from "../../person-card/person-card.component";
+import { PersonCardComponent } from "../../../person-card/person-card.component";
 
 @Component({
     selector: 'app-read-user',
